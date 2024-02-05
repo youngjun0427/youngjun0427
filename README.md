@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0b62ef&height=180&text=&animation=fadeIn&fontColor=241499&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프론트 개발자를 꿈꾸는 최영준 입니다! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 최영준 입니다! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! </div> 
     </div>
     <div align= "center">
